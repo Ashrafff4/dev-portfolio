@@ -19,8 +19,7 @@ A personal portfolio designed as a macOS desktop that runs in the browser. Visit
  
 - HTML5
 - CSS3
-- JavaScript (ES6+), no frameworks or build tools
-## Project Structure
+- JavaScript
  
  
 ## Getting Started
